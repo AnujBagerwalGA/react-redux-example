@@ -1,2 +1,2 @@
-# react-redux-example
-create small react redux example
+# react-redux-route
+create basic React Redux and setup Routes and create CRUD
